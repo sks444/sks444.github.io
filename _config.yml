@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Yash Nisar
+title: Shrikrishna Singh
 locale: en_US
 description:
 logo: site-logo.png
@@ -35,16 +35,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Yash Nisar
+  name: Shrikrishna Singh
   avatar: bio-photo.jpg
-  email: yashnisar@gmail.com
+  email: krishnasingh.ss30@gmail.com
   disqus-shortname:
-  twitter: yash_nisar
-  facebook: yash.nisar
-  github: yash-nisar
+  twitter: sks444_
+  facebook: #username
+  github: sks444
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: yash-nisar
-  instagram: nisaryash
+  linkedin: sks444
+  instagram: sks444_
   flickr: #username
   tumblr: #username
   pinterest: #username
