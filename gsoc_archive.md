@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GSoC Archive
-tagline: Whatever I learned in the process and latest updates
+tagline: All the GSoC related blogs will be here!
 order: 2
 ---
 

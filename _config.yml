@@ -1,11 +1,11 @@
-title: Do what you can't
-TITLE: DO WHAT YOU CAN'T
+title: Shrikrishna Singh
+TITLE: Shrikrishna Singh
 description: Life begins at the end of your comfort zone
 github.project_tagline: seek discomfort 1
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://ishanSrt.github.io" # change this to the base hostname & protocol for your site
+url: "https://sks444.github.io" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
@@ -16,13 +16,13 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Ishan Srivastava"
+author: "Shrikrishna Singh"
 image: /thumbnail-jumbo.png
 twitter:
-  username: ishan_srt
+  username: sks444_
 github:
-  owner_url: https://github.com/ishanSrt
-  owner_name: Ishan Srivastava
+  owner_url: https://github.com/sks444
+  owner_name: Shrikrishna Singh
   is_project_page: true
 plugins:
   - jekyll-feed
@@ -30,8 +30,8 @@ plugins:
 
 #  site:
 facebook:
-  username: ishan.srivastava.507
-  url: fb.com/ishan.srivastava.507
+  username: sks444
+  url: fb.com/sks444
 #   #profile_id: 1809805629
 #   app_id: 1798910940422432 # cayman-blog
 #   #authors: lorepirri
@@ -43,4 +43,4 @@ header_pages:
   - about.md
   - contact.md
 
-repository: ishanSrt/ishanSrt.github.io
+repository: sks444/sks444.github.io

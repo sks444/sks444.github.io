@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-tagline: I have no projects
+tagline: Stuff I have worked on so far!
 order: 3
 ---
 

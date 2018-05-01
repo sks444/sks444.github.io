@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Personal Stuff
 tagline: Just a blog, I ain't got an awesome tagline for everything
 permalink: /categories/
 order: 1
