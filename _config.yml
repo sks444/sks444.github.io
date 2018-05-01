@@ -1,0 +1,46 @@
+title: Do what you can't
+TITLE: DO WHAT YOU CAN'T
+description: Life begins at the end of your comfort zone
+github.project_tagline: seek discomfort 1
+show_downloads: true
+
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://ishanSrt.github.io" # change this to the base hostname & protocol for your site
+
+google_analytics:
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: "Ishan Srivastava"
+image: /thumbnail-jumbo.png
+twitter:
+  username: ishan_srt
+github:
+  owner_url: https://github.com/ishanSrt
+  owner_name: Ishan Srivastava
+  is_project_page: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+#  site:
+facebook:
+  username: ishan.srivastava.507
+  url: fb.com/ishan.srivastava.507
+#   #profile_id: 1809805629
+#   app_id: 1798910940422432 # cayman-blog
+#   #authors: lorepirri
+# #  admins:
+header_pages:
+  - blog.md
+  - gsoc_archive.md
+  - projects.md
+  - about.md
+  - contact.md
+
+repository: ishanSrt/ishanSrt.github.io
