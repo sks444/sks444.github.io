@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example content"
+title: "Example content on how to use all the cayman functionality."
 categories: blog
 ---
 
