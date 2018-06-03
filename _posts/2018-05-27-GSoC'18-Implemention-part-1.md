@@ -83,7 +83,7 @@ But, guess what? This is not the bigger problem with the above design.
 >
 >If we don't allocate some value to these points thresholds, people will only aim for the badges.
 
-The conclusion of the design is, when newcomers perform some activities they will get some points, and based on that points threshold they will be leveled up along with having some cool privileges of using functionalities available in tools like [corobo](https://github.com/coala/corobo) and [Gitmate](https://gitlab.com/gitmate/open-source/gitmate-2).
+So, the conclusion of the whole game design is, when newcomers perform some activities they will get some points, and based on that points threshold they will be leveled up along with having some cool privileges of using functionalities available in tools like [corobo](https://github.com/coala/corobo) and [Gitmate](https://gitlab.com/gitmate/open-source/gitmate-2).
 
 And in case of a newcomer performs an activity multiple times he/she will get badges related to that activity, which shows that the newcomer has some cool skills in performing certain type of tasks.
 
