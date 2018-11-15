@@ -2,7 +2,7 @@
 layout: post
 title: "The idea, Refined!"
 tagline: "The cEP, The Newcomers List, The Gitter Data"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"

@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC'18 Coding Phase-2: Part-I"
 tagline: "Building the Gamification App"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"

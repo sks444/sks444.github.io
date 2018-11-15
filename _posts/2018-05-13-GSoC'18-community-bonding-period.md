@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC'18 Community Bonding Period"
 tagline: "The Project, The work, The Bonding"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"

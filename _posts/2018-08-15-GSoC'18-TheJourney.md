@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC'18 The Whole Journey"
 tagline: "Wrapping up"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"
