@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newcomer Metrics and Gamification"
-tagline: "Wrapping up"
+tagline: "gsoc project"
 categories: projects
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
