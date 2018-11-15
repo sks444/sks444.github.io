@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC'18 Coding Phase-1: Week-3"
 tagline: "GitHub, GitLab and the Django docs"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"

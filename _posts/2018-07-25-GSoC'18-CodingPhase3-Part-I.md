@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC'18 Coding Phase-3: Part-I"
 tagline: "Import gitter messages"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"

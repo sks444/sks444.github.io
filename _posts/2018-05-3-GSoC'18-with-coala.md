@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC'18 with coala"
 tagline: "Decision, Preparation and Selection"
-categories: gsoc pinned
+categories: gsoc
 image: /thumbnail-mobile.png
 author: "Shrikrishna Singh"
 meta: "Springfield"
