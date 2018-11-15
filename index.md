@@ -7,18 +7,3 @@
 #
 layout: home
 ---
-
-Coming soon..
-### Coming soon..!
-
-
-Coming soon..
-
-Coming soon..*<center>"Coming soon.."</center>*   
-Coming soon...
-
-Coming soon..
-
-Coming soon...
-
-The last coming soon...
